@@ -5,9 +5,9 @@ Este projeto é um tradutor do qual transcreve o numero digitado para extenso
 ### Instalação
 Para executar o projeto, clone o repositorio em uma pasta.
 
-Entre na pasta /certi
+Entre na pasta /certitradutor
 ```
-cd certi
+cd certitradutor
 ```
 
 ## Docker
